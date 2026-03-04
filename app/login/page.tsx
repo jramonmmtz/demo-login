@@ -80,7 +80,7 @@ export default function LoginPage() {
                     <div className="flex flex-col gap-1">
                         {[
                             { email: "admin@demo.com", role: "Admin" },
-                            { email: "ramon@demo.com", role: "User" },
+                            { email: "user@demo.com", role: "User" },
                             { email: "guest@demo.com", role: "Guest" },
                         ].map((u) => (
                             <button
