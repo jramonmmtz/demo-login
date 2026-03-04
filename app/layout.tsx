@@ -6,7 +6,7 @@ import Providers from "./components/Providers";
 const geist = Geist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Mi Proyecto",
+  title: "Demo",
   description: "Reutilización de componentes",
 };
 
